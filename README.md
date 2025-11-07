@@ -17,7 +17,7 @@
 ###
 
 <img align="right" height="359" width="345"  
-     src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif"  
+     src="https://drive.google.com/file/d/1vQ2SngIcUKtnMVFbj3KTgfZf97b2EyM-/view"  
      style="margin-top: 200px;" />
 
 ###
@@ -64,21 +64,9 @@
   <table>
         <tr>
             <td width="50%">
-                <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
-                </h3>
-                <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
-                    <p align="center">
-                        A chill radio from youtube to listen Lo-Fi music without being disturbed
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 and typescript. Also use webpack.
-					</details>
-            </p>
+              <img 
+     			src="https://i.postimg.cc/SNLHtwwd/Premierexportgif-ezgif-com-video-to-gif-converter.gif"  
+     			style="margin-top: 200px;" />
             </td>
             <td width="50%">
                             <h3 align="center">
@@ -139,21 +127,9 @@
         </tr>
         <tr>
             <td width="50%">
-                <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> Chrome plugin: Chatpgt Copy Export Clipboard </a>
-                </h3>
-                <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/chatpgt-copy-export-clipb/pepppbfidpcpglligpchbmdnjpjiidae" target="_blank" rel="noreferrer"> <img src="./static/logo-chatgpt-plugin.png" alt="chatpgt-plugin" width="50%"/> </a>
-                    <p align="center">
-                       🪄 Enhance CHATGPT with copy button, export chat in any extension and clipboard manager 📋. Compatible with AIPRM ✅
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						Create a chrome plugin with native JS and webpack.
-					</details>
-            </p>
+                <img 
+     			src="https://i.postimg.cc/SNLHtwwd/Premierexportgif-ezgif-com-video-to-gif-converter.gif"  
+     			style="margin-top: 200px;" />
             <td width="50%">
                 <h3 align="center">Unbox JS 📦</h3>
                 <p align="center">
