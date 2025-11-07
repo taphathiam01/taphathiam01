@@ -130,7 +130,10 @@
 						<summary>
 						<b>Note 📝</b>
 						</summary>
-						We use typescript and jest.
+							modèle d'apprentissage automatique conçu pour détecter les
+							menaces de type malware. L'objectif est de garantir un modèle à la fois performant et
+							résilient face à d'éventuelles attaques adversariales, tout en proposant une application
+							simple et intuitive pour les utilisateurs
 					</details>
                 </p>
             </td>
