@@ -92,21 +92,9 @@
         </tr>
         <tr>
             <td width="50%">
-				<h3 align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Gallery Scroll Experience</a>
-                </h3>
-                <p align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> <img src="./static/gallery.gif" alt="gallery"/> </a>
-                    <p align="center">
-                        Gallery Scroll Experience, recommended on computer 🖥
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Gsap + Lenis.
-					</details>
-                </p>
+				<img 
+     			src="https://i.postimg.cc/xTPrxc7V/Capture-d-e-cran-2025-11-07-a-18-57-20.png"  
+     			style="margin-top: 200px;" />
             </td>
             <td width="50%">
              <h3 align="center">
